@@ -13,7 +13,7 @@ Due to a lack of knowledge, I was unable to get over a certain hurdle. Although 
 # Future
 I am hoping to return to this project once I am better equiped and potentially complete the project.
 For now however, this project will sit as a reminder as to what my first project of interest was like.
-This project may see a revival with a full conversion to dnd-kit based components and a better approach to storing and converting the stored components.
+This project may see a revival with a full conversion to dnd-kit based components and a better approach to storing and converting stored components.
 
-# Running
-Make sure you install all dependecies using `npm install`, then use `npm run` to start the project. Feel free to take a look at the code and see if you can tackle it for yourself. 
+# Running & Contribution
+Feel free to contribute and make pull requests. To run, make sure you install all dependecies using `npm install`, then use `npm run` to start the project. Feel free to take a look at the code and see if you can tackle it for yourself. 
